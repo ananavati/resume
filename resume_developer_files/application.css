@@ -535,6 +535,18 @@ cite {
   font-weight: bold;
 }
 
+.name {
+  padding-left: 10px;
+}
+
+.name_header {
+  float: left;
+}
+
+.email_phone {
+  padding-top: 27px;
+}
+
 /* line 40, ../bootstrap/css/_type.scss */
 .text-warning {
   color: #c09853; }
